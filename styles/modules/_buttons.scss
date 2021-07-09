@@ -59,7 +59,7 @@
 // Note : Button Sizes
 .btn-32 {
   @include text-style(14);
-  height: 40px;
+  height: 32px;
 }
 
 .btn-40 {
@@ -69,10 +69,10 @@
 
 .btn-48 {
   @include text-style(16);
-  height: 40px;
+  height: 48px;
 }
 
 .btn-55 {
   @include text-style(18);
-  height: 40px;
+  height: 55px;
 }
